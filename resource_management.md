@@ -62,3 +62,6 @@ Cgroups is the abbreviation of control groups, which is a linux feature that lim
 | cgroup/blkio/blkio.throttle.write_bps_device | specifies the upper bandwidth limit of write operations for specific devices. | --device-write-bps="" |
 | cgroup/blkio/blkio.throttle.read_iops_device | specifies the upper limit on the I/O number of read operations for specific devices. | --device-read-iops="" |
 | cgroup/blkio/blkio.throttle.write_iops_device | specifies the upper limit on the I/O number of write operations for specific devices. | --device-write-iops="" |
+
+
+Yan Wei, Software Testing Engineer, Central Software Institute, HUAWEI. She supported the test tasks of container components for HUAWEI public cloud. SHe concentrated on function, performance, security, reliability and stress tests for Docker technology. She led the construction and development of Docker long time stability test, and won awards for her contributions. She has contributed some test cases for Docker community.
